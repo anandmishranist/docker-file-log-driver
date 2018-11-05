@@ -6,7 +6,7 @@ import (
 
 	"github.com/docker/docker/daemon/logger"
 	"github.com/docker/go-plugins-helpers/sdk"
-	"github.com/deep-compute/docker-file-log-driver/driver"
+	"github.com/anandmishranist/docker-file-log-driver"
 )
 
 type startLoggingRequest struct {
